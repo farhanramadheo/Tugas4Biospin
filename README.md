@@ -23,8 +23,8 @@ B) Analyze the signal
 
 
 ![sinyal X](https://user-images.githubusercontent.com/81222423/112156928-4a16a080-8c19-11eb-8f97-68099281b5da.JPG)![]( https://latex.codecogs.com/gif.latex?%7B%5Ccolor%7BMagenta%7D%20signal%20x%7D)
-![sinyal Y](https://user-images.githubusercontent.com/81222423/112156945-4edb5480-8c19-11eb-837b-119228223580.JPG) Y signal
-![sinyal Z](https://user-images.githubusercontent.com/81222423/112156949-4f73eb00-8c19-11eb-8ffb-92367bb23249.JPG) Z signal
+![sinyal Y](https://user-images.githubusercontent.com/81222423/112156945-4edb5480-8c19-11eb-837b-119228223580.JPG) ![](https://latex.codecogs.com/gif.latex?%7B%5Ccolor%7BTeal%7D%20signal%20y%7D)
+![sinyal Z](https://user-images.githubusercontent.com/81222423/112156949-4f73eb00-8c19-11eb-8ffb-92367bb23249.JPG) ![](https://latex.codecogs.com/gif.latex?%7B%5Ccolor%7BBlue%7D%20signal%20y%7D)
 
    
    
